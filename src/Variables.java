@@ -20,7 +20,7 @@ public class Variables {
     static void method1() {
 
         Variables var1 = new Variables();
-        var1.instanceVar1 = 20;
+        var1.instanceVar1 = 40;
         var1.stringInstanceVar = "MNO";
         System.out.println(var1.instanceVar1);
         System.out.println(var1.stringInstanceVar);
